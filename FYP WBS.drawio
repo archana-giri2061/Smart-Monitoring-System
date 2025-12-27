@@ -1,0 +1,1168 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.9">
+  <diagram name="Page-1" id="c0aFlF0auRigx1nHeump">
+    <mxGraphModel dx="5124" dy="2244" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span lang=&quot;AR-SA&quot; style=&quot;font-size:12.0pt;line-height:&lt;br/&gt;107%;font-family:&amp;quot;Mangal&amp;quot;,serif;mso-fareast-font-family:Arial;mso-ansi-language:&lt;br/&gt;EN-GB;mso-fareast-language:EN-GB;mso-bidi-language:AR-SA&quot;&gt;वन&lt;/span&gt;&lt;span lang=&quot;AR-SA&quot; style=&quot;font-size:12.0pt;line-height:107%;font-family:&amp;quot;Arial&amp;quot;,sans-serif;&lt;br/&gt;mso-fareast-font-family:Arial;mso-ansi-language:EN-GB;mso-fareast-language:&lt;br/&gt;EN-GB;mso-bidi-language:AR-SA&quot;&gt; &lt;/span&gt;&lt;span lang=&quot;AR-SA&quot; style=&quot;font-size:12.0pt;&lt;br/&gt;line-height:107%;font-family:&amp;quot;Mangal&amp;quot;,serif;mso-fareast-font-family:Arial;&lt;br/&gt;mso-ansi-language:EN-GB;mso-fareast-language:EN-GB;mso-bidi-language:AR-SA&quot;&gt;दृष्टि&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="1420" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-2" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="lP4UbqpXwy0mYSXLFN3N-1" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1480" y="120" as="sourcePoint" />
+            <mxPoint x="470" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-3" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="160" y="120" as="sourcePoint" />
+            <mxPoint x="2530" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-4" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="160" y="160" as="sourcePoint" />
+            <mxPoint x="160" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Mangal, serif&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;1. Sprint 1: Project Initiation and Research&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="170" x="80" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-6" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="160" y="160" as="sourcePoint" />
+            <mxPoint x="160" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-7" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="120" y="420" as="sourcePoint" />
+            <mxPoint x="120" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-8" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="120" y="240" as="sourcePoint" />
+            <mxPoint x="160" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;font face=&quot;Mangal, serif&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;1.1. Problem Understanding&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="150" x="160" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;font face=&quot;Mangal, serif&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;1.2. Literature Review&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="150" x="160" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;font face=&quot;Mangal, serif&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;1.3. Comparative Study&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="150" x="160" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;font face=&quot;Mangal, serif&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;1.4. Requirement and Scope Definition&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="150" x="160" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-17" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="120" y="299.78" as="sourcePoint" />
+            <mxPoint x="160" y="299.78" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-18" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="120" y="359.78" as="sourcePoint" />
+            <mxPoint x="160" y="359.78" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-19" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="120" y="419.78" as="sourcePoint" />
+            <mxPoint x="160" y="419.78" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-20" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="390" y="160" as="sourcePoint" />
+            <mxPoint x="390" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Mangal, serif&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;2. Sprint 2: System Analysis and Design&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="170" x="320" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;font face=&quot;Mangal, serif&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;2.1. System Architecture Design&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="150" x="370" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-23" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="330" y="640" as="sourcePoint" />
+            <mxPoint x="330" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-24" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="330" y="239.55" as="sourcePoint" />
+            <mxPoint x="370" y="239.55" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-25" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="380" y="370" as="sourcePoint" />
+            <mxPoint x="380" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;font face=&quot;Mangal, serif&quot; style=&quot;font-size: 11px;&quot;&gt;2.1.1. Design overall system architecture&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="150" x="400" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;font face=&quot;Mangal, serif&quot; style=&quot;font-size: 10px;&quot;&gt;2.1.2. Define data flow between components&amp;nbsp;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="150" x="400" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-28" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="380" y="285" as="sourcePoint" />
+            <mxPoint x="400" y="284.77" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-29" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="380" y="330.23" as="sourcePoint" />
+            <mxPoint x="400" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-31" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="330" y="240" as="sourcePoint" />
+            <mxPoint x="370" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-46" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontStyle=0" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="640" y="160" as="sourcePoint" />
+            <mxPoint x="640" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-47" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" value="&lt;font face=&quot;Mangal, serif&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;3. Sprint 3: Data Collection and Preperation&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="190" x="540" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-48" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontStyle=0" value="&lt;font face=&quot;Mangal, serif&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;3.1. External Weather Data&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="150" x="620" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-49" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontStyle=0" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="580" y="510" as="sourcePoint" />
+            <mxPoint x="580" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-50" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontStyle=0" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="580" y="239.55" as="sourcePoint" />
+            <mxPoint x="620" y="239.55" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-51" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontStyle=0" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="630" y="330" as="sourcePoint" />
+            <mxPoint x="630" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-52" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontStyle=0" value="&lt;font face=&quot;Mangal, serif&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;3.1.1 Integrate free weather API and schedule hourly data fetch&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="150" x="650" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-53" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontStyle=0" value="&lt;font face=&quot;Mangal, serif&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;3.1.2. Store weather data in database&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="150" x="650" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-54" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontStyle=0" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="630" y="285" as="sourcePoint" />
+            <mxPoint x="650" y="284.77" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-55" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontStyle=0" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="630" y="330.23" as="sourcePoint" />
+            <mxPoint x="650" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-56" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontStyle=0" value="&lt;font face=&quot;Mangal, serif&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;3.2. Historical Dataset Preparation&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="150" x="620" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-57" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontStyle=0" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="580" y="240" as="sourcePoint" />
+            <mxPoint x="620" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-58" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontStyle=0" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="580" y="380" as="sourcePoint" />
+            <mxPoint x="620" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-59" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontStyle=0" value="&lt;font face=&quot;Mangal, serif&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;3.2.1. Analyze forest fire dataset and preprocessing values&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="150" x="650" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-60" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontStyle=0" value="&lt;font face=&quot;Mangal, serif&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;3.2.2. Feature selection and transformation&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="150" x="650" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-61" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontStyle=0" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="630" y="420.11" as="sourcePoint" />
+            <mxPoint x="650" y="419.88" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-62" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontStyle=0" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="630" y="460.23" as="sourcePoint" />
+            <mxPoint x="650" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-63" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontStyle=0" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="630" y="460" as="sourcePoint" />
+            <mxPoint x="630" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-64" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontStyle=0" value="&lt;font face=&quot;Mangal, serif&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;3.3. Database Data Preperation&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="150" x="620" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-65" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontStyle=0" value="&lt;font face=&quot;Mangal, serif&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;3.3.1. Extract past DB weather records&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="150" x="650" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-66" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontStyle=0" value="&lt;font face=&quot;Mangal, serif&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;3.3.2. Merge API data with dataset features&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="150" x="650" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-67" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontStyle=0" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="630" y="550.11" as="sourcePoint" />
+            <mxPoint x="650" y="549.88" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-68" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontStyle=0" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="630" y="590.23" as="sourcePoint" />
+            <mxPoint x="650" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-69" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontStyle=0" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="630" y="640" as="sourcePoint" />
+            <mxPoint x="630" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-70" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontStyle=0" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="580" y="509.74" as="sourcePoint" />
+            <mxPoint x="620" y="509.74" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-71" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontStyle=0" value="&lt;font face=&quot;Mangal, serif&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;3.3.2. Merge API data with dataset features&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="150" x="650" y="630" as="geometry" />
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-72" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontStyle=0" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="630" y="590.23" as="sourcePoint" />
+            <mxPoint x="650" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-73" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontStyle=0" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="630" y="640.23" as="sourcePoint" />
+            <mxPoint x="650" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-102" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="900" y="160" as="sourcePoint" />
+            <mxPoint x="900" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-103" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Mangal, serif&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;4. Sprint 4: Machine Learning Model Development&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="210" x="780" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-104" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;font face=&quot;Mangal, serif&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;4.1. Model Selection&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="150" x="880" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-105" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="840" y="510" as="sourcePoint" />
+            <mxPoint x="840" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-106" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="840" y="239.55" as="sourcePoint" />
+            <mxPoint x="880" y="239.55" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-107" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="890" y="330" as="sourcePoint" />
+            <mxPoint x="890" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-108" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;font face=&quot;Mangal, serif&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;4.1.1. Identify Suitable ML algorithms&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="150" x="910" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-109" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;font face=&quot;Mangal, serif&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;4.1.2. Compare model performance&amp;nbsp;&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="150" x="910" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-110" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="890" y="285" as="sourcePoint" />
+            <mxPoint x="910" y="284.77" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-111" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="890" y="330.23" as="sourcePoint" />
+            <mxPoint x="910" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-112" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;font face=&quot;Mangal, serif&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;4.2 Model Training&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="150" x="880" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-113" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="840" y="240" as="sourcePoint" />
+            <mxPoint x="880" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-114" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="840" y="380" as="sourcePoint" />
+            <mxPoint x="880" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-115" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;font face=&quot;Mangal, serif&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;4.2.1. Train model using historical dataset and DB-stored data&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="160" x="910" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-116" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;font face=&quot;Mangal, serif&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;4.2.2 Save trained model&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="150" x="910" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-117" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="890" y="420.11" as="sourcePoint" />
+            <mxPoint x="910" y="419.88" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-118" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="890" y="460.23" as="sourcePoint" />
+            <mxPoint x="910" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-119" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="890" y="460" as="sourcePoint" />
+            <mxPoint x="890" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-120" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;font face=&quot;Mangal, serif&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;4.3. Model Evaluation&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="150" x="880" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-121" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;font face=&quot;Mangal, serif&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;4.3.1 Evaluate accuracy and performance&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="150" x="910" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-122" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;font face=&quot;Mangal, serif&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;4.3.2. Analyze prediction errors&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="150" x="910" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-123" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="890" y="550.11" as="sourcePoint" />
+            <mxPoint x="910" y="549.88" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-124" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="890" y="590.23" as="sourcePoint" />
+            <mxPoint x="910" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-125" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="890" y="640" as="sourcePoint" />
+            <mxPoint x="890" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-126" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="840" y="509.74" as="sourcePoint" />
+            <mxPoint x="880" y="509.74" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-127" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;font face=&quot;Mangal, serif&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;4.3.3. Finalize prediction model&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="150" x="910" y="630" as="geometry" />
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-128" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="890" y="590.23" as="sourcePoint" />
+            <mxPoint x="910" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-129" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="890" y="640.23" as="sourcePoint" />
+            <mxPoint x="910" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-130" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1180" y="160" as="sourcePoint" />
+            <mxPoint x="1180" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-131" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Mangal, serif&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;5. Sprint 5: Backend Development&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="210" x="1060" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-132" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;font face=&quot;Mangal, serif&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;5.1. Backend Setup&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="150" x="1160" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-133" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1120" y="510" as="sourcePoint" />
+            <mxPoint x="1120" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-134" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1120" y="239.55" as="sourcePoint" />
+            <mxPoint x="1160" y="239.55" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-135" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1170" y="330" as="sourcePoint" />
+            <mxPoint x="1170" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-136" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;font face=&quot;Mangal, serif&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;5.1.1. Setup Node.js backend&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="150" x="1190" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-137" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;font face=&quot;Mangal, serif&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;5.1.2. Configure database connection&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="150" x="1190" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-138" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1170" y="285" as="sourcePoint" />
+            <mxPoint x="1190" y="284.77" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-139" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1170" y="330.23" as="sourcePoint" />
+            <mxPoint x="1190" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-140" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;font face=&quot;Mangal, serif&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;5.2. API Development&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="150" x="1160" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-141" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1120" y="240" as="sourcePoint" />
+            <mxPoint x="1160" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-142" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1120" y="380" as="sourcePoint" />
+            <mxPoint x="1160" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-143" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;font face=&quot;Mangal, serif&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;5.2.1. Weather and sensor data API end point&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="160" x="1190" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-144" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;font face=&quot;Mangal, serif&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;5.2.2. Prediction API end point&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="150" x="1190" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-145" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1170" y="420.11" as="sourcePoint" />
+            <mxPoint x="1190" y="419.88" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-146" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1170" y="460.23" as="sourcePoint" />
+            <mxPoint x="1190" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-147" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1170" y="460" as="sourcePoint" />
+            <mxPoint x="1170" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-148" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;font face=&quot;Mangal, serif&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;5.3. ML Integration&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="150" x="1160" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-149" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;font face=&quot;Mangal, serif&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;5.3.1. Connect backend with ML model&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="150" x="1190" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-150" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;font face=&quot;Mangal, serif&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;5.3.2. Implement real-time prediction logic&amp;nbsp;&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="150" x="1190" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-151" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1170" y="550.11" as="sourcePoint" />
+            <mxPoint x="1190" y="549.88" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-152" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1170" y="590.23" as="sourcePoint" />
+            <mxPoint x="1190" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-153" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1170" y="640" as="sourcePoint" />
+            <mxPoint x="1170" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-154" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1120" y="509.74" as="sourcePoint" />
+            <mxPoint x="1160" y="509.74" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-155" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;font face=&quot;Mangal, serif&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;5.3.3. Store predicted risk results&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="150" x="1190" y="630" as="geometry" />
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-156" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1170" y="590.23" as="sourcePoint" />
+            <mxPoint x="1190" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-157" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1170" y="640.23" as="sourcePoint" />
+            <mxPoint x="1190" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-158" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1460" y="160" as="sourcePoint" />
+            <mxPoint x="1460" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-159" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Mangal, serif&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;6. Sprint 6: Frontend Development&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="210" x="1340" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-160" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;font face=&quot;Mangal, serif&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;6.1. UI Design&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="150" x="1440" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-161" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1400" y="510" as="sourcePoint" />
+            <mxPoint x="1400" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-162" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1400" y="239.55" as="sourcePoint" />
+            <mxPoint x="1440" y="239.55" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-163" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1450" y="330" as="sourcePoint" />
+            <mxPoint x="1450" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-164" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;font face=&quot;Mangal, serif&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;6.1.1. Design dashboard layout&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="150" x="1470" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-165" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;font face=&quot;Mangal, serif&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;6.1.2. Design charts and indicators&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="150" x="1470" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-166" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1450" y="285" as="sourcePoint" />
+            <mxPoint x="1470" y="284.77" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-167" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1450" y="330.23" as="sourcePoint" />
+            <mxPoint x="1470" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-168" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;font face=&quot;Mangal, serif&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;6.2. Frontend Implementation&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="150" x="1440" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-169" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1400" y="240" as="sourcePoint" />
+            <mxPoint x="1440" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-170" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1400" y="380" as="sourcePoint" />
+            <mxPoint x="1440" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-171" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;font face=&quot;Mangal, serif&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;6.2.1. Display real-time weather data and sensor readings&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="160" x="1470" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-172" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;font face=&quot;Mangal, serif&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;6.2.2. Displaly fire risk level&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="150" x="1470" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-173" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1450" y="420.11" as="sourcePoint" />
+            <mxPoint x="1470" y="419.88" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-174" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1450" y="460.23" as="sourcePoint" />
+            <mxPoint x="1470" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-175" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1450" y="460" as="sourcePoint" />
+            <mxPoint x="1450" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-176" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;font face=&quot;Mangal, serif&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;6.3. User Management&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="150" x="1440" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-177" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;font face=&quot;Mangal, serif&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;6.3.1. Admin login&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="150" x="1470" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-178" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;font face=&quot;Mangal, serif&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;6.3.2. Role-based access&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="150" x="1470" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-179" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1450" y="550.11" as="sourcePoint" />
+            <mxPoint x="1470" y="549.88" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-180" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1450" y="590.23" as="sourcePoint" />
+            <mxPoint x="1470" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-181" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1450" y="590" as="sourcePoint" />
+            <mxPoint x="1450" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-182" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1400" y="509.74" as="sourcePoint" />
+            <mxPoint x="1440" y="509.74" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-184" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1450" y="590.23" as="sourcePoint" />
+            <mxPoint x="1470" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-186" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1750" y="160" as="sourcePoint" />
+            <mxPoint x="1750" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-187" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Mangal, serif&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;7. Sprint 7: Hardware Integration&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="210" x="1630" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-188" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;font face=&quot;Mangal, serif&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;7.1. Sensor setup&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="150" x="1730" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-189" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1690" y="560" as="sourcePoint" />
+            <mxPoint x="1690" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-190" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1690" y="239.55" as="sourcePoint" />
+            <mxPoint x="1730" y="239.55" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-191" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1740" y="330" as="sourcePoint" />
+            <mxPoint x="1740" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-192" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;font face=&quot;Mangal, serif&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;7.1.1 Configure all sensors&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="150" x="1760" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-193" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;font face=&quot;Mangal, serif&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;7.1.2. Test sensor accuracy&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="150" x="1760" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-194" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1740" y="285" as="sourcePoint" />
+            <mxPoint x="1760" y="284.77" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-195" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1740" y="330.23" as="sourcePoint" />
+            <mxPoint x="1760" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-196" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;font face=&quot;Mangal, serif&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;7.2. Data transmission&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="150" x="1730" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-197" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1690" y="240" as="sourcePoint" />
+            <mxPoint x="1730" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-198" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1690" y="380" as="sourcePoint" />
+            <mxPoint x="1730" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-199" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;font face=&quot;Mangal, serif&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;7.2.1. Send sensor data to backend&amp;nbsp;&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="160" x="1760" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-200" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;font face=&quot;Mangal, serif&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;7.2.2. Configure humidity sensor&amp;nbsp;&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="150" x="1760" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-201" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1740" y="420.11" as="sourcePoint" />
+            <mxPoint x="1760" y="419.88" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-202" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1740" y="460.23" as="sourcePoint" />
+            <mxPoint x="1760" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-203" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1740" y="510" as="sourcePoint" />
+            <mxPoint x="1740" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-204" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;font face=&quot;Mangal, serif&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;7.3. Hardware and ML link&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="150" x="1730" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-210" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1690" y="560" as="sourcePoint" />
+            <mxPoint x="1730" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-214" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;font face=&quot;Mangal, serif&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;7.2.3. Store hardware data in database&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="150" x="1760" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-215" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1740" y="460.23" as="sourcePoint" />
+            <mxPoint x="1760" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-216" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1740" y="510.03000000000003" as="sourcePoint" />
+            <mxPoint x="1760" y="509.8" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-217" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;font face=&quot;Mangal, serif&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;7.3.1. Use hardware data for prediction&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="150" x="1770" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-218" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;font face=&quot;Mangal, serif&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;7.3.2. Compare API vs sensor data impact&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="150" x="1770" y="630" as="geometry" />
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-219" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1750" y="600.11" as="sourcePoint" />
+            <mxPoint x="1770" y="599.88" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-220" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1750" y="640.23" as="sourcePoint" />
+            <mxPoint x="1770" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-221" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1750" y="640" as="sourcePoint" />
+            <mxPoint x="1750" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-223" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1750" y="640.23" as="sourcePoint" />
+            <mxPoint x="1770" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-226" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="2040" y="160" as="sourcePoint" />
+            <mxPoint x="2040" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-227" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Mangal, serif&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;8. Sprint 8: Alerting and Reporting&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="210" x="1920" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-228" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1940" y="420" as="sourcePoint" />
+            <mxPoint x="1940" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-229" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;font face=&quot;Mangal, serif&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;8.1. Alert System&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="150" x="1980" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-230" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1940" y="240" as="sourcePoint" />
+            <mxPoint x="1980" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-231" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;font face=&quot;Mangal, serif&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;8.1.1 Define fire risk thresholds&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="160" x="2010" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-232" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;font face=&quot;Mangal, serif&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;8.1.2. Generate alerts for high risk&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="150" x="2010" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-233" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1990" y="280.11" as="sourcePoint" />
+            <mxPoint x="2010" y="279.88" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-234" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1990" y="320.23" as="sourcePoint" />
+            <mxPoint x="2010" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-235" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1990" y="370" as="sourcePoint" />
+            <mxPoint x="1990" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-236" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;font face=&quot;Mangal, serif&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;8.2. Reporting&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="150" x="1980" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-237" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1940" y="420" as="sourcePoint" />
+            <mxPoint x="1980" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-238" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;font face=&quot;Mangal, serif&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;8.1.3. Store alert logs&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="150" x="2010" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-239" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1990" y="320.23" as="sourcePoint" />
+            <mxPoint x="2010" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-240" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1990" y="370.03" as="sourcePoint" />
+            <mxPoint x="2010" y="369.79999999999995" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-241" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;font face=&quot;Mangal, serif&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;8.2.1. Generate historical risk reports&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="150" x="2020" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-242" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;font face=&quot;Mangal, serif&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;8.2.2. Export data for analysis&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="150" x="2020" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-243" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="2000" y="460.11" as="sourcePoint" />
+            <mxPoint x="2020" y="459.88" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-244" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="2000" y="500.23" as="sourcePoint" />
+            <mxPoint x="2020" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-245" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="2000" y="500" as="sourcePoint" />
+            <mxPoint x="2000" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-246" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="2000" y="500.23" as="sourcePoint" />
+            <mxPoint x="2020" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-247" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="2290" y="160" as="sourcePoint" />
+            <mxPoint x="2290" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-248" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Mangal, serif&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;9. Sprint9: Testing and Validation&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="210" x="2170" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-249" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="2190" y="560" as="sourcePoint" />
+            <mxPoint x="2190" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-250" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;font face=&quot;Mangal, serif&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;9.1. System Testing&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="150" x="2230" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-251" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="2190" y="240" as="sourcePoint" />
+            <mxPoint x="2230" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-252" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;font face=&quot;Mangal, serif&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;9.1.1. Backend API testing&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="160" x="2260" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-253" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;font face=&quot;Mangal, serif&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;9.1.2. ML Prediction testing&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="150" x="2260" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-254" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="2240" y="280.11" as="sourcePoint" />
+            <mxPoint x="2260" y="279.88" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-255" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="2240" y="320.23" as="sourcePoint" />
+            <mxPoint x="2260" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-256" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="2240" y="370" as="sourcePoint" />
+            <mxPoint x="2240" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-257" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;font face=&quot;Mangal, serif&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;9.2. Performance Validation&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="150" x="2230" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-258" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="2190" y="420" as="sourcePoint" />
+            <mxPoint x="2230" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-259" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;font face=&quot;Mangal, serif&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;9.1.3. Hardware data testing&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="150" x="2260" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-260" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="2240" y="320.23" as="sourcePoint" />
+            <mxPoint x="2260" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-261" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="2240" y="370.03" as="sourcePoint" />
+            <mxPoint x="2260" y="369.79999999999995" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-262" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;font face=&quot;Mangal, serif&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;9.2.1. Validate prediction accuracy&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="150" x="2270" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-263" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;font face=&quot;Mangal, serif&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;9.2.2. Validate real-time processing&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="150" x="2270" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-264" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="2250" y="460.11" as="sourcePoint" />
+            <mxPoint x="2270" y="459.88" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-265" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="2250" y="500.23" as="sourcePoint" />
+            <mxPoint x="2270" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-266" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="2250" y="500" as="sourcePoint" />
+            <mxPoint x="2250" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-267" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="2250" y="500.23" as="sourcePoint" />
+            <mxPoint x="2270" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-268" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;font face=&quot;Mangal, serif&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;9.3. Bug Fixing&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="150" x="2230" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-269" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="2190" y="560" as="sourcePoint" />
+            <mxPoint x="2230" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-270" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;font face=&quot;Mangal, serif&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;9.3.1. Resolve integration issues&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="150" x="2270" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-271" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;font face=&quot;Mangal, serif&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;9.3.2. Final refinements&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="150" x="2270" y="630" as="geometry" />
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-272" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="2250" y="600.11" as="sourcePoint" />
+            <mxPoint x="2270" y="599.88" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-273" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="2250" y="640.23" as="sourcePoint" />
+            <mxPoint x="2270" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-274" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="2250" y="640" as="sourcePoint" />
+            <mxPoint x="2250" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-275" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="2250" y="640.23" as="sourcePoint" />
+            <mxPoint x="2270" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-276" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;font face=&quot;Mangal, serif&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;2.2. Database Design&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="150" x="370" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-277" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="330" y="510" as="sourcePoint" />
+            <mxPoint x="370" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-278" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;font face=&quot;Mangal, serif&quot; style=&quot;font-size: 11px;&quot;&gt;2.2.1. Design ER diagram&amp;nbsp;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="150" x="400" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-279" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;font face=&quot;Mangal, serif&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;2.2.2. Create relational schema&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="150" x="400" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-280" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="380" y="550.11" as="sourcePoint" />
+            <mxPoint x="400" y="549.88" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-281" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="380" y="590.23" as="sourcePoint" />
+            <mxPoint x="400" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-282" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="380" y="590" as="sourcePoint" />
+            <mxPoint x="380" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-283" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;font face=&quot;Mangal, serif&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;2.3. API &amp;amp; Data Design&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="150" x="370" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-284" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;font face=&quot;Mangal, serif&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;2.3.1. Identify weather API data requirements&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="150" x="400" y="670" as="geometry" />
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-285" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;font face=&quot;Mangal, serif&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;2.3.2. Design API data ingestion process&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="150" x="400" y="710" as="geometry" />
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-286" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="380" y="680.11" as="sourcePoint" />
+            <mxPoint x="400" y="679.88" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-287" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="380" y="720.23" as="sourcePoint" />
+            <mxPoint x="400" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-288" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="380" y="720" as="sourcePoint" />
+            <mxPoint x="380" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-289" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="330" y="639.74" as="sourcePoint" />
+            <mxPoint x="370" y="639.74" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-290" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;font face=&quot;Mangal, serif&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;2.2. System Diagrams&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="150" x="370" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-294" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="380" y="370.23" as="sourcePoint" />
+            <mxPoint x="400" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-296" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="330" y="440" as="sourcePoint" />
+            <mxPoint x="370" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-297" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;font face=&quot;Mangal, serif&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;2.1.3. SRS&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="150" x="400" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-314" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="2530" y="160" as="sourcePoint" />
+            <mxPoint x="2530" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-315" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Mangal, serif&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;10. Documentation and Final Submission&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="210" x="2410" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-316" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="2440" y="320" as="sourcePoint" />
+            <mxPoint x="2440" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-317" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;font face=&quot;Mangal, serif&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;10.1. Final Report&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="150" x="2480" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-318" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="2440" y="240" as="sourcePoint" />
+            <mxPoint x="2480" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-333" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;font face=&quot;Mangal, serif&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;10.2. Presentation&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="150" x="2480" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="lP4UbqpXwy0mYSXLFN3N-334" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="2440" y="320" as="sourcePoint" />
+            <mxPoint x="2480" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
